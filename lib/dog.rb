@@ -11,4 +11,3 @@ class Dog
   def this_dogs_name = "Lassie"
   end
 end
-

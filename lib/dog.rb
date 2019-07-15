@@ -9,5 +9,5 @@ class Dog
   lassie.name = "Lassie"
 
   def name=(Lassie)
-    this_dogs_name = Lassie
+    this_dogs_name = assie
   end
